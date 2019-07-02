@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568918175518",
+    "firebase_url": "https://fir-d842c.firebaseio.com",
+    "project_id": "fir-d842c",
+    "storage_bucket": "fir-d842c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568918175518:android:2c57038e7fd457bd",
+        "android_client_info": {
+          "package_name": "com.example.sistemita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568918175518-q2ot5v5kd8ol6vetstlvao6hah6s5ko1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQkKujmCmtw6tEiqCksli7cCRbVOdoji4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568918175518-q2ot5v5kd8ol6vetstlvao6hah6s5ko1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
